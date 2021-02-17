@@ -5,6 +5,8 @@
 
 **Python Notebook answers the following questions based on the paper:**
 
+**Presentation Slides can be found [here](https://docs.google.com/presentation/d/1xgIuJP_Y0Mpc061K3vwIY0ky5ICdYPSQU_yaOA5WZc8/edit?usp=sharing)**
+
 1) Implement the normalization function (Equation 10 in Carandini & Heeger, 2012)
 and show how this function removes redundancy in an input (i.e., by decorrelating
 the pixels).
